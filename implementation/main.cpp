@@ -2,6 +2,7 @@
 
 
 int main() {
-    attack_simulation_for_t4();
+    cipher_velocity_evaluation_256();
+    cipher_velocity_evaluation_512();
     return 0;
 }
